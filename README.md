@@ -5,4 +5,4 @@
 ![Preview](assets/screen1.png)
 
 
-![Preview](assets/screen2.png)
+![](assets/screen2.png)

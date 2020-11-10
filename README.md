@@ -2,4 +2,4 @@
 
 ## Preview
 
-![Preview](./screen.jpg)
+![Preview](./screen.png)

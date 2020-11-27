@@ -1,0 +1,371 @@
+Nov 08 23:47 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 08 23:47 : config: option 'device' on line 14 was not recognized
+Nov 08 23:47 : update: added /Lil Tecca - Royal Rumble (Official Music Video).mp3
+Nov 08 23:47 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 08 23:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 08 23:48 : config: option 'device' on line 14 was not recognized
+Nov 08 23:48 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 08 23:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 08 23:48 : avahi: Failed to add service _mpd._tcp: Local name collision
+Nov 08 23:48 : config: option 'device' on line 14 was not recognized
+Nov 08 23:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 08 23:48 : avahi: Failed to add service _mpd._tcp: Local name collision
+Nov 08 23:48 : config: option 'device' on line 14 was not recognized
+Nov 08 23:49 : client: [0] opened from 127.0.0.1:37470
+Nov 08 23:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 08 23:49 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 08 23:50 : client: [0] closed
+Nov 08 23:56 : client: [1] opened from 127.0.0.1:37652
+Nov 08 23:57 : client: [1] closed
+Nov 08 23:57 : client: [2] opened from 127.0.0.1:37656
+Nov 08 23:58 : client: [2] closed
+Nov 08 23:58 : client: [3] opened from 127.0.0.1:37664
+Nov 08 23:58 : client: [3] closed
+Nov 08 23:58 : client: [4] opened from 127.0.0.1:37668
+Nov 08 23:58 : client: [4] closed
+Nov 08 23:58 : client: [5] opened from 127.0.0.1:37672
+Nov 08 23:58 : client: [5] closed
+Nov 08 23:58 : client: [6] opened from 127.0.0.1:37676
+Nov 08 23:58 : client: [6] closed
+Nov 08 23:58 : client: [7] opened from 127.0.0.1:37678
+Nov 08 23:59 : client: [7] closed
+Nov 08 23:59 : client: [8] opened from 127.0.0.1:37686
+Nov 08 23:59 : client: [8] closed
+Nov 08 23:59 : client: [9] opened from 127.0.0.1:37690
+Nov 09 00:00 : client: [9] closed
+Nov 09 00:27 : avahi: Client Disconnected, will reconnect shortly
+Nov 09 00:27 : avahi: Client Disconnected, will reconnect shortly
+Nov 09 00:27 : avahi: Client Disconnected, will reconnect shortly
+Nov 09 07:59 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 09 07:59 : config: option 'device' on line 14 was not recognized
+Nov 09 07:59 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 09 07:59 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 09 11:13 : avahi: Client Disconnected, will reconnect shortly
+Nov 09 11:13 : player: played "Lil Tecca - Royal Rumble (Official Music Video).mp3"
+Nov 09 12:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 09 12:08 : config: option 'device' on line 14 was not recognized
+Nov 09 12:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 09 12:08 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 09 16:12 : avahi: Client Disconnected, will reconnect shortly
+Nov 09 16:12 : player: played "Lil Tecca - Royal Rumble (Official Music Video).mp3"
+Nov 09 16:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 09 16:14 : config: option 'device' on line 14 was not recognized
+Nov 09 16:14 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 09 16:14 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 09 18:28 : avahi: Client Disconnected, will reconnect shortly
+Nov 09 18:28 : player: played "Lil Tecca - Royal Rumble (Official Music Video).mp3"
+Nov 09 18:33 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 09 18:33 : config: option 'device' on line 14 was not recognized
+Nov 09 18:33 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 09 18:33 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 09 18:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 09 18:38 : config: option 'device' on line 14 was not recognized
+Nov 09 18:38 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 09 18:38 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 09 18:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 09 18:41 : config: option 'device' on line 14 was not recognized
+Nov 09 18:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 09 18:41 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 09 18:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 09 18:48 : config: option 'device' on line 14 was not recognized
+Nov 09 18:48 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 09 18:48 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 09 18:49 : avahi: Client Disconnected, will reconnect shortly
+Nov 09 18:49 : player: played "Lil Tecca - Royal Rumble (Official Music Video).mp3"
+Nov 09 18:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 09 18:51 : config: option 'device' on line 14 was not recognized
+Nov 09 18:51 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 09 18:51 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 09 18:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 09 18:56 : config: option 'device' on line 14 was not recognized
+Nov 09 18:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 09 19:06 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 09 19:06 : config: option 'device' on line 14 was not recognized
+Nov 09 19:06 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 10 00:36 : client: [0] opened from 127.0.0.1:52428
+Nov 10 00:36 : client: [0] closed
+Nov 10 01:30 : avahi: Client Disconnected, will reconnect shortly
+Nov 10 01:30 : player: played "Lil Tecca - Royal Rumble (Official Music Video).mp3"
+Nov 10 07:56 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 10 07:56 : config: option 'device' on line 14 was not recognized
+Nov 10 07:56 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 10 07:56 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 10 15:04 : avahi: Client Disconnected, will reconnect shortly
+Nov 10 15:04 : player: played "Lil Tecca - Royal Rumble (Official Music Video).mp3"
+Nov 10 18:21 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 10 18:21 : config: option 'device' on line 14 was not recognized
+Nov 10 18:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 10 18:21 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 10 19:16 : client: [0] opened from 127.0.0.1:57368
+Nov 10 19:16 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 10 19:16 : client: [0] closed
+Nov 10 19:16 : client: [1] opened from 127.0.0.1:57370
+Nov 10 19:16 : player: played "Lil Tecca - Royal Rumble (Official Music Video).mp3"
+Nov 10 19:16 : client: [1] closed
+Nov 11 01:29 : avahi: Client Disconnected, will reconnect shortly
+Nov 11 12:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 11 12:10 : config: option 'device' on line 14 was not recognized
+Nov 11 12:10 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 11 12:28 : avahi: Client Disconnected, will reconnect shortly
+Nov 11 15:29 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 11 15:29 : config: option 'device' on line 14 was not recognized
+Nov 11 15:29 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 12 10:33 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 12 10:33 : config: option 'device' on line 14 was not recognized
+Nov 12 10:33 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 12 15:54 : avahi: Client Disconnected, will reconnect shortly
+Nov 12 15:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 12 15:58 : config: option 'device' on line 14 was not recognized
+Nov 12 15:58 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 13 01:25 : avahi: Client Disconnected, will reconnect shortly
+Nov 13 14:55 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 13 14:56 : config: option 'device' on line 14 was not recognized
+Nov 13 14:56 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 13 17:17 : avahi: Client Disconnected, will reconnect shortly
+Nov 13 17:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 13 17:18 : config: option 'device' on line 14 was not recognized
+Nov 13 17:18 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 14 01:52 : avahi: Client Disconnected, will reconnect shortly
+Nov 14 11:30 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 14 11:30 : config: option 'device' on line 14 was not recognized
+Nov 14 11:30 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 14 18:18 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 14 18:18 : config: option 'device' on line 14 was not recognized
+Nov 14 18:18 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 15 01:57 : avahi: Client Disconnected, will reconnect shortly
+Nov 15 09:33 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 15 09:33 : config: option 'device' on line 14 was not recognized
+Nov 15 09:33 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 15 15:13 : avahi: Client Disconnected, will reconnect shortly
+Nov 15 15:16 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 15 15:16 : config: option 'device' on line 14 was not recognized
+Nov 15 15:16 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 15 21:09 : avahi: Client Disconnected, will reconnect shortly
+Nov 15 22:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 15 22:24 : config: option 'device' on line 14 was not recognized
+Nov 15 22:24 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 15 23:55 : avahi: Client Disconnected, will reconnect shortly
+Nov 16 04:17 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 16 04:17 : config: option 'device' on line 14 was not recognized
+Nov 16 04:17 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 16 12:18 : avahi: Client Disconnected, will reconnect shortly
+Nov 16 16:10 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 16 16:10 : config: option 'device' on line 14 was not recognized
+Nov 16 16:10 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 17 00:23 : avahi: Client Disconnected, will reconnect shortly
+Nov 17 06:42 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 17 06:42 : config: option 'device' on line 14 was not recognized
+Nov 17 06:42 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 18 01:34 : avahi: Client Disconnected, will reconnect shortly
+Nov 18 08:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 18 08:26 : config: option 'device' on line 14 was not recognized
+Nov 18 08:26 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 18 11:03 : avahi: Client Disconnected, will reconnect shortly
+Nov 18 13:03 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 18 13:03 : config: option 'device' on line 14 was not recognized
+Nov 18 13:03 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 19 00:35 : avahi: Client Disconnected, will reconnect shortly
+Nov 19 15:12 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 19 15:12 : config: option 'device' on line 14 was not recognized
+Nov 19 15:12 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 19 16:40 : client: [0] opened from 127.0.0.1:57238
+Nov 19 16:40 : client: [0] closed
+Nov 19 18:24 : avahi: Client Disconnected, will reconnect shortly
+Nov 19 18:28 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 19 18:28 : config: option 'device' on line 14 was not recognized
+Nov 19 18:28 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 20 00:48 : avahi: Client Disconnected, will reconnect shortly
+Nov 20 17:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 20 17:58 : config: option 'device' on line 14 was not recognized
+Nov 20 17:58 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 21 01:09 : avahi: Client Disconnected, will reconnect shortly
+Nov 21 09:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 21 09:24 : config: option 'device' on line 14 was not recognized
+Nov 21 09:24 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 21 09:29 : avahi: Client Disconnected, will reconnect shortly
+Nov 21 19:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 21 19:37 : config: option 'device' on line 14 was not recognized
+Nov 21 19:37 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 22 01:38 : avahi: Client Disconnected, will reconnect shortly
+Nov 22 11:48 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 22 11:48 : config: option 'device' on line 14 was not recognized
+Nov 22 11:48 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 23 00:40 : avahi: Client Disconnected, will reconnect shortly
+Nov 23 15:58 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 23 15:58 : config: option 'device' on line 14 was not recognized
+Nov 23 15:58 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 24 00:39 : avahi: Client Disconnected, will reconnect shortly
+Nov 24 17:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 24 17:02 : config: option 'device' on line 14 was not recognized
+Nov 24 17:02 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 24 19:27 : avahi: Client Disconnected, will reconnect shortly
+Nov 24 19:28 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 24 19:28 : config: option 'device' on line 14 was not recognized
+Nov 24 19:28 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 24 23:16 : avahi: Client Disconnected, will reconnect shortly
+Nov 25 13:38 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 25 13:38 : config: option 'device' on line 14 was not recognized
+Nov 25 13:38 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 25 14:32 : avahi: Client Disconnected, will reconnect shortly
+Nov 25 14:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 25 14:34 : config: option 'device' on line 14 was not recognized
+Nov 25 14:34 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 26 01:16 : avahi: Client Disconnected, will reconnect shortly
+Nov 26 14:01 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 26 14:01 : config: option 'device' on line 14 was not recognized
+Nov 26 14:01 : avahi: Service 'Music Player @ kathans-desktop' successfully established.
+Nov 26 19:15 : client: [0] opened from 127.0.0.1:59984
+Nov 26 19:15 : client: [0] closed
+Nov 26 19:53 : client: [1] opened from 127.0.0.1:35402
+Nov 26 19:56 : client: [1] closed
+Nov 26 19:56 : client: [2] opened from 127.0.0.1:35632
+Nov 26 19:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 26 19:57 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 26 19:57 : client: [2] closed
+Nov 26 19:58 : client: [3] opened from 127.0.0.1:35664
+Nov 26 20:02 : client: [3] closed
+Nov 26 20:02 : client: [4] opened from 127.0.0.1:35788
+Nov 26 20:03 : client: [4] closed
+Nov 26 20:03 : client: [5] opened from 127.0.0.1:35794
+Nov 26 20:03 : client: [5] closed
+Nov 26 20:03 : client: [6] opened from 127.0.0.1:35804
+Nov 26 20:03 : update: removing Lil Tecca - Royal Rumble (Official Music Video).mp3
+Nov 26 20:03 : update: added /Royal-Rumble.mp3
+Nov 26 20:04 : client: [6] closed
+Nov 26 20:04 : client: [7] opened from 127.0.0.1:35810
+Nov 26 20:05 : client: [7] closed
+Nov 26 20:05 : client: [8] opened from 127.0.0.1:35822
+Nov 26 20:05 : client: [8] closed
+Nov 26 20:05 : client: [9] opened from 127.0.0.1:35826
+Nov 26 20:05 : client: [9] closed
+Nov 26 20:05 : client: [10] opened from 127.0.0.1:35830
+Nov 26 20:06 : client: [10] closed
+Nov 26 20:06 : client: [11] opened from 127.0.0.1:35842
+Nov 26 20:06 : client: [11] closed
+Nov 26 20:06 : client: [12] opened from 127.0.0.1:35844
+Nov 26 20:06 : client: [12] closed
+Nov 26 20:06 : client: [13] opened from 127.0.0.1:35854
+Nov 26 20:07 : client: [13] closed
+Nov 26 20:07 : client: [14] opened from 127.0.0.1:35862
+Nov 26 20:07 : client: [14] closed
+Nov 26 20:07 : client: [15] opened from 127.0.0.1:35866
+Nov 26 20:08 : client: [15] closed
+Nov 26 20:08 : client: [16] opened from 127.0.0.1:35882
+Nov 26 20:09 : client: [16] closed
+Nov 26 20:09 : client: [17] opened from 127.0.0.1:35894
+Nov 26 20:09 : client: [17] closed
+Nov 26 20:09 : client: [18] opened from 127.0.0.1:35898
+Nov 26 20:09 : client: [18] closed
+Nov 26 20:09 : client: [19] opened from 127.0.0.1:35908
+Nov 26 20:10 : client: [19] closed
+Nov 26 20:10 : client: [20] opened from 127.0.0.1:35918
+Nov 26 20:10 : client: [20] closed
+Nov 26 20:10 : client: [21] opened from 127.0.0.1:35922
+Nov 26 20:12 : client: [21] closed
+Nov 26 20:12 : client: [22] opened from 127.0.0.1:36014
+Nov 26 20:12 : client: [22] closed
+Nov 26 20:12 : client: [23] opened from 127.0.0.1:36020
+Nov 26 20:16 : client: [23] closed
+Nov 26 20:16 : client: [24] opened from 127.0.0.1:36198
+Nov 26 20:17 : client: [24] closed
+Nov 26 20:17 : client: [25] opened from 127.0.0.1:36214
+Nov 26 20:18 : client: [25] closed
+Nov 26 20:18 : client: [26] opened from 127.0.0.1:36222
+Nov 26 20:18 : client: [26] closed
+Nov 26 20:18 : client: [27] opened from 127.0.0.1:36228
+Nov 26 21:11 : client: [27] closed
+Nov 26 21:11 : client: [28] opened from 127.0.0.1:36642
+Nov 26 21:12 : client: [28] closed
+Nov 26 21:12 : client: [29] opened from 127.0.0.1:36672
+Nov 26 21:12 : client: [29] closed
+Nov 26 21:12 : client: [30] opened from 127.0.0.1:36676
+Nov 26 21:13 : client: [30] closed
+Nov 26 21:13 : client: [31] opened from 127.0.0.1:36694
+Nov 26 21:19 : client: [31] closed
+Nov 26 21:19 : client: [32] opened from 127.0.0.1:36760
+Nov 26 21:21 : client: [32] closed
+Nov 26 21:21 : client: [33] opened from 127.0.0.1:36788
+Nov 26 21:27 : update: added /Ontspan.mp3
+Nov 26 21:27 : update: added /Rozei - Ooo La La.mp3
+Nov 26 21:27 : update: added /no-wifi Type Beat.mp3
+Nov 26 21:27 : update: added /Lil Tecca - Left, Right (Official Audio).mp3
+Nov 26 21:27 : update: added /Water Type Beat.mp3
+Nov 26 21:27 : update: added /Messy Type Beat.mp3
+Nov 26 21:27 : update: added /Hope - type beat.mp3
+Nov 26 21:27 : update: added /khalid-eleven.mp3
+Nov 26 21:27 : update: added /unexpected-type-beat.mp3
+Nov 26 21:27 : update: added /Highest-in-the-Room.mp3
+Nov 26 21:27 : update: added /Elevated - type beat.mp3
+Nov 26 21:27 : update: added /Ice Type Beat.mp3
+Nov 26 21:27 : update: added /Psycho.mp3
+Nov 26 21:27 : update: added /Juice-WRLD-Robbery.mp3
+Nov 26 21:27 : update: added /Lil Tecca - Did It Again.mp3
+Nov 26 21:27 : update: added /Crushing Type Beat.mp3
+Nov 26 21:27 : update: added /Power Type Beat.mp3
+Nov 26 21:27 : update: added /Blue-Strips.mp3
+Nov 26 21:27 : update: added /Iann_Dior_-_Romance_361_Feat._PnB_Rock_(mp3.pm).mp3
+Nov 26 21:27 : update: added /The Kid LAROI - Let Her Go.mp3
+Nov 26 21:27 : update: added /Disturb Type Beat.mp3
+Nov 26 21:27 : update: added /G-Eazy-ft-Yo-Gotti-YBN-Nahmir-1942-Clean.mp3
+Nov 26 21:27 : update: added /Without You type Beat.mp3
+Nov 26 21:27 : update: added /Sun-Up.mp3
+Nov 26 21:27 : update: added /Lil Tecca - Molly Girl (Official Audio).mp3
+Nov 26 21:27 : update: added /iann dior - 18 (Official Audio).mp3
+Nov 26 21:27 : client: [33] closed
+Nov 26 21:27 : client: [34] opened from 127.0.0.1:36834
+Nov 26 21:29 : client: [34] closed
+Nov 26 21:29 : client: [35] opened from 127.0.0.1:36876
+Nov 26 21:30 : client: [35] closed
+Nov 26 21:30 : client: [36] opened from 127.0.0.1:36886
+Nov 26 21:31 : client: [36] closed
+Nov 26 21:31 : client: [37] opened from 127.0.0.1:36892
+Nov 26 21:31 : client: [37] closed
+Nov 26 21:31 : client: [38] opened from 127.0.0.1:36900
+Nov 26 21:33 : client: [38] closed
+Nov 26 21:33 : client: [39] opened from 127.0.0.1:36920
+Nov 26 21:33 : client: [39] closed
+Nov 26 21:33 : client: [40] opened from 127.0.0.1:36928
+Nov 26 21:33 : client: [40] closed
+Nov 26 21:33 : client: [41] opened from 127.0.0.1:36934
+Nov 26 21:37 : client: [41] closed
+Nov 26 21:37 : client: [42] opened from 127.0.0.1:36972
+Nov 26 21:38 : player: played "Royal-Rumble.mp3"
+Nov 26 21:40 : player: played "Crushing Type Beat.mp3"
+Nov 26 21:40 : client: [42] closed
+Nov 26 21:40 : client: [43] opened from 127.0.0.1:37004
+Nov 26 21:41 : client: [43] closed
+Nov 26 21:41 : client: [44] opened from 127.0.0.1:37014
+Nov 26 21:41 : client: [44] closed
+Nov 26 21:41 : client: [45] opened from 127.0.0.1:37016
+Nov 26 21:41 : client: [45] closed
+Nov 26 21:41 : client: [46] opened from 127.0.0.1:37018
+Nov 26 21:41 : client: [46] closed
+Nov 26 21:41 : client: [47] opened from 127.0.0.1:37022
+Nov 26 21:42 : client: [47] closed
+Nov 26 21:42 : client: [48] opened from 127.0.0.1:37026
+Nov 26 21:42 : client: [48] closed
+Nov 26 21:42 : client: [49] opened from 127.0.0.1:37034
+Nov 26 21:42 : client: [49] closed
+Nov 26 21:42 : client: [50] opened from 127.0.0.1:37038
+Nov 26 21:42 : client: [50] closed
+Nov 26 21:42 : client: [51] opened from 127.0.0.1:37044
+Nov 26 21:44 : client: [51] closed
+Nov 26 21:44 : client: [52] opened from 127.0.0.1:37058
+Nov 26 21:44 : client: [52] closed
+Nov 26 21:44 : client: [53] opened from 127.0.0.1:37066
+Nov 26 21:46 : client: [53] closed
+Nov 26 21:46 : client: [54] opened from 127.0.0.1:37094
+Nov 26 21:48 : client: [54] closed
+Nov 26 21:48 : client: [55] opened from 127.0.0.1:37112
+Nov 26 21:55 : client: [55] closed
+Nov 26 21:55 : client: [56] opened from 127.0.0.1:37356
+Nov 26 21:56 : client: [56] closed
+Nov 26 21:56 : client: [57] opened from 127.0.0.1:37364
+Nov 26 21:57 : client: [57] closed
+Nov 26 21:57 : client: [58] opened from 127.0.0.1:37376
+Nov 26 21:59 : client: [58] closed
+Nov 26 22:44 : client: [59] opened from 127.0.0.1:38912
+Nov 26 22:45 : client: [59] closed
+Nov 26 22:46 : client: [60] opened from 127.0.0.1:38924
+Nov 26 22:48 : player: played "unexpected-type-beat.mp3"
+Nov 26 22:51 : player: played "Without You type Beat.mp3"

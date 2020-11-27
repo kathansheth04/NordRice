@@ -2,6 +2,6 @@
 
 ## Preview :fire:
 
-![](assets/mainScreen.png)
+![](assets/homescreen.png)
 
 ![](assets/screen2.png)

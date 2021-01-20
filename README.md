@@ -1,4 +1,4 @@
-# NordRice
+# Linux Rice based on Nord theme
 
 ## Preview
 

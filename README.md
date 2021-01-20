@@ -1,6 +1,6 @@
 # NordRice
 
-## Preview :fire:
+## Preview
 
 ![](assets/homescreen.png)
 
